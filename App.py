@@ -1,9 +1,3 @@
-""" 
-    Created on Thu Sept 17 2020
-
-    @author: umairkarel
-"""
-
 from tkinter import *
 from tkinter import ttk
 import random
